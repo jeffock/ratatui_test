@@ -7,6 +7,6 @@ Creates a simple "Hello World!" paragraph in "Greeting" paragraph block from [ra
 
 ___
 
-## Explor:
+## Explore:
 - [widgets](https://github.com/ratatui-org/ratatui/tree/main/examples)
 
