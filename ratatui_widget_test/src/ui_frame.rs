@@ -11,7 +11,7 @@ pub fn ui(frame: &mut Frame) {
         .split(frame.size());
     
     frame.render_widget(
-        Block::new().borders(Borders::TOP).title("Title Bar"),
+        Block::new().borders(Borders::TOP).title("Widget Test"),
         main_layout[0],
     );
     frame.render_widget(
